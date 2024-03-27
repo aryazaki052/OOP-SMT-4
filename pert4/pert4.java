@@ -25,10 +25,10 @@ public class pert4 {
   public static void main(String[] args) {
     // declare variabel
     int hargaBarang;
-    double ppn = 0.11;
+    final double ppn = 0.11;
     double hargaAkhir;
     Scanner ipt = new Scanner(System.in);
-    
+
     // catch the value from user
     System.out.println("Masukan Harga Dasar Barang");
     hargaBarang = ipt.nextInt();
