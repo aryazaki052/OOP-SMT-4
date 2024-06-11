@@ -1,4 +1,4 @@
-package pert12;
+package pert12.bangunDatar;
 
 public class lingkaran extends bangunDatar{
 

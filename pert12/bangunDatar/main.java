@@ -1,4 +1,4 @@
-package pert12;
+package pert12.bangunDatar;
 
 public class main {
   public static void main(String[] args) {
