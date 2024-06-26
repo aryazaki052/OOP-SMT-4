@@ -1,7 +1,7 @@
 package pert12.bangunDatar;
 
 public class main {
-  public static void main(String[] args) {
+  public static void Main(String[] args) {
     persegiPanjang pp = new persegiPanjang();
     pp.panjang = 5;
     pp.lebar = 3;
